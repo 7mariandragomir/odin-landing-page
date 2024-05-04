@@ -241,7 +241,7 @@ header ul {
     color: var(--cl-dk-500);
 }
 
-.quote blockquote > figcaption {
+.quote blockquote > p {
     text-align: end;
 
     font-weight: 900;
